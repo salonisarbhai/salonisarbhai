@@ -27,7 +27,7 @@
 
 I am currently pursuing Master's in Data Science from State University of New York. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I was a Machine Learning Researcher in IIT Bombay and worked as a Business Analyst for a year in miniOrange.
+- :telescope: I was a Machine Learning Research intern in IIT Bombay and worked as a Business Analyst for a year in miniOrange.
 
 - :seedling: I am currently learning Data Science and Big Data.
 
