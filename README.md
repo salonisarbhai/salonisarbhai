@@ -25,7 +25,14 @@
 ---
 ### :woman_technologist: About Me :
 
-I am a Master's in Data Science student at State University of New York. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am currently pursuing Master's in Data Science from State University of New York. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+- :telescope: I was a Machine Learning Researcher in IIT Bombay and worked as a Business Analyst for a year in miniOrange.
+
+- :seedling: I am currently learning Machine Learning and Big Data.
+
+- :zap: In my free time, I solve problems on Leetcode, sing and sketch.
+
+- :mailbox:How to reach me: (salonisa@buffalo.edu)
 
 
