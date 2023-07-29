@@ -33,7 +33,7 @@ I am currently pursuing Master's in Data Science from State University of New Yo
 
 - :zap: In my free time, I solve problems on Leetcode, sing and sketch.
 
-- :mailbox: How to reach me: salonisa@buffalo.edu.
+- :mailbox: How to reach me: salonisarbhai21@gmail.com.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -52,9 +52,13 @@ I am currently pursuing Master's in Data Science from State University of New Yo
 </div>
 
 ### :fire: My Stats :
-
+<div>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=salonisarbhai&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salonisarbhai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
