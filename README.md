@@ -33,6 +33,6 @@ I am currently pursuing Master's in Data Science from State University of New Yo
 
 - :zap: In my free time, I solve problems on Leetcode, sing and sketch.
 
-- :mailbox:How to reach me: (salonisa@buffalo.edu)
+- :mailbox:How to reach me: salonisa@buffalo.edu
 
 
